@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="314px" viewBox="0 0 336 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pi-icon</title>
+    <g id="pi-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M125.5,0 C194.811736,0 251,56.1882639 251,125.5 C251,194.811736 194.811736,251 125.5,251 C56.1882639,251 0,194.811736 0,125.5 C0,56.1882639 56.1882639,0 125.5,0 Z M125.5,46 C81.5933624,46 46,81.5933624 46,125.5 C46,169.406638 81.5933624,205 125.5,205 C169.406638,205 205,169.406638 205,125.5 C205,81.5933624 169.406638,46 125.5,46 Z" id="形状结合" fill="#000000"></path>
+        <rect id="矩形" fill="#000000" x="0" y="123" width="38" height="127" rx="7"></rect>
+        <rect id="矩形" fill="#000000" x="290" y="76" width="46" height="175" rx="23"></rect>
+        <rect id="矩形" fill="#000000" x="0" y="162" width="46" height="152" rx="23"></rect>
+        <circle id="椭圆形" fill="#000000" cx="313" cy="23" r="23"></circle>
+        <rect id="矩形" fill="#000000" transform="translate(65.500000, 231.500000) rotate(-270.000000) translate(-65.500000, -231.500000) " x="46.5" y="166.5" width="38" height="130" rx="8"></rect>
+    </g>
+</svg>
